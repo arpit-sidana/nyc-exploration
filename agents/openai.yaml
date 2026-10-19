@@ -1,0 +1,4 @@
+interface:
+  display_name: "NYC Exploration"
+  short_description: "Research and rank verified NYC events and experiences"
+  default_prompt: "Find and rank the best NYC events and experiences for my preferences and dates."

@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*cookie*
+*session*
+*token*
+private/
+local/
+NYC_EXPLORATION_CONTEXT.md
